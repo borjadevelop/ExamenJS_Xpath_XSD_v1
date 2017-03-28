@@ -1,8 +1,12 @@
 # Añadidos
 -Añadido focus a las preguntas.
+
 -Añadido XPath.
+
 -Añadido correcciones.
+
 -Añadido XSL.
+
 -Añadido link para ver la tabla del xml con el xls.
 
 --------------------------------------------------------------
